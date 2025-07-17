@@ -91,3 +91,10 @@ chmod +x bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+man test
+man [[
+help [[ ... ]]
+help
+help if
+help [[
+help test
